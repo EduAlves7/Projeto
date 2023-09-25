@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)git 
+Feito com ♥ by EduAlves7 :wave:
